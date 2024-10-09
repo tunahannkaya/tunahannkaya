@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tunahan</h1>
 <h3 align="center">A passionate frontend developer from Tunahan, I am studying computer programming</h3>
 
-- 🌱 I’m currently learning **C++, Html**
+- 🌱 I’m currently learning **C++, Html ,JavaScript**
 
 - 📫 How to reach me **tunahankurtez@hotmail.com**
 
